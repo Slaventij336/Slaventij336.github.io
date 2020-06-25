@@ -54,15 +54,17 @@
     }
 
     #socialmedialist {
-	width: 58%;
-	font-size: 48px;
+	width: 90%;
+	font-size: 24px;
     line-height: 1.2;
     margin-bottom: 10px;
 	display: flex;
-	flex-direction: column;
-	align-items: center;
+/*	flex-direction: column;
+	align-items: center;*/
 	justify-content: space-between;
 	}
+
+	
 	
 	main {
 	 /*max-width: 1400px;*/
